@@ -1,0 +1,5 @@
+## Copy this file to local.properties and point sdk.dir at your Android SDK.
+## Do not commit local.properties. It is machine-specific.
+sdk.dir=/path/to/Android/sdk
+# ndk.dir is optional when the SDK manager NDK side-by-side install is present.
+# ndk.dir=/path/to/Android/sdk/ndk/27.0.12077973
